@@ -29,7 +29,7 @@ This **Car Sales Dashboard** provides a deep analysis of vehicle sales across di
 ---
 
 ## 🛠️ Tools Used  
-✅ **Power BI** - Data Visualization  
+✅ **Tableau** - Data Visualization  
 ✅ **SQL** - Data Processing  
 ✅ **Excel** - Data Cleaning  
 
